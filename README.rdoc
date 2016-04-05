@@ -1,1 +1,1 @@
-Steve Adamson's Ruby on Rails Blog test site
+Steve Adamson's Ruby on Rails Blog test site using bootstrap
